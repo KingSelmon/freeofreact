@@ -1,6 +1,10 @@
-React에 대한 최신 LTS버전 전용 소스를 보관하는 공간
-현재 버전 : 
+# react-free
 
+React 최신 LTS 버전 전용 소스를 보관하는 공간입니다.
+
+## 현재 버전 (`package.json`)
+
+```json
 {
   "name": "react-free",
   "private": true,
